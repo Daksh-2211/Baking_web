@@ -5,7 +5,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import ReactPaginate from "react-paginate";
 
 const BASE_URL = "https://baking-ai.onrender.com/get-all-recipes";
+<<<<<<< HEAD
 const ITEMS_PER_PAGE = 24;
+=======
+const ITEMS_PER_PAGE = 20;
+>>>>>>> d51437b (updated in files)
 // page num updated 20
 
 const SkeletonCard = () => {
