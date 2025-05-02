@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: backndweb
-          image: dakshbhavsar/backend:v1
+          image: 396304922437.dkr.ecr.us-east-1.amazonaws.com/baking_web:a836514a
           ports:
             - containerPort: 8080
