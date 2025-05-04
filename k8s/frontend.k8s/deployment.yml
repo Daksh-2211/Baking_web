@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: baking-web
-        image: 396304922437.dkr.ecr.us-east-1.amazonaws.com/baking_web_frontend:c558e3ba
+        image: 396304922437.dkr.ecr.us-east-1.amazonaws.com/baking_web_frontend:a3e3cfc9
         ports:
           - containerPort: 3000
 
