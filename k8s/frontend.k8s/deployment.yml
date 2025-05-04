@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: baking-web
-        image: dakshbhavsar/frontend:v1
+        image: 396304922437.dkr.ecr.us-east-1.amazonaws.com/baking_web_frontend:ede11478
         ports:
           - containerPort: 3000
 
